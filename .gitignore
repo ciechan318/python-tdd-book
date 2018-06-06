@@ -3,5 +3,7 @@ geckodriver.log
 virtualenv/
 __pycache__
 *.pyc
+.vscode
+.idea
 python-tdd-book.sublime-workspace
 python-tdd-book.sublime-project
