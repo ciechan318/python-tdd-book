@@ -1,8 +1,10 @@
 python-tdd-book [WIP]
 =========
 
-Repository following content od the book "Test-Driven Development with Python" ny Harry J.W Percival
+Repository following content of the book "Test-Driven Development with Python" by Harry J.W Percival
 
 Check it out here:
 
 http://www.obeythetestinggoat.com/pages/book.html
+
+OBEY THE TESTING GOAT.
