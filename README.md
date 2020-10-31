@@ -8,3 +8,5 @@ Check it out here:
 http://www.obeythetestinggoat.com/pages/book.html
 
 OBEY THE TESTING GOAT.
+
+Kiedy Panie to skonczysz?
